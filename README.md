@@ -2,8 +2,8 @@
 
 ## 📈 Stats
 <div display="inline">
-<img src="https://github-readme-stats.vercel.app/api?username=RaduAvramescu&theme=dark&show_icons=true&hide=contribs,prs" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaduAvramescu&theme=dark&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaduAvramescu&theme=dark&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RaduAvramescu&theme=dark&show_icons=true&hide=contribs,prs" />
 </div>
 
 ## 📫 Contact
