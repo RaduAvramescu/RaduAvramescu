@@ -19,6 +19,7 @@ I'm a junior frontend developer who is looking for work.
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/npm-%234A154B.svg?&style=for-the-badge&logo=npm">
   <img src="https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/jira-%234A154B.svg?&style=for-the-badge&logo=jira">
 </div>
 
 
