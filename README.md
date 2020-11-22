@@ -1,4 +1,5 @@
 # Hello! I'm Radu Avramescu. 👋
+I'm a junior frontend developer who is looking for work.
 
 ## 📈 Stats
 <div display="inline">
