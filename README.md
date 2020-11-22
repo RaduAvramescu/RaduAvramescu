@@ -3,8 +3,8 @@
 
 ## 📈 Stats
 <div display="inline">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaduAvramescu&theme=dark&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=RaduAvramescu&theme=dark&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaduAvramescu&theme=dark&show_icons=true" height="195">
+  <img src="https://github-readme-stats.vercel.app/api?username=RaduAvramescu&theme=dark&show_icons=true" height="195">
 </div>
 
 ## 🚀 Skills
