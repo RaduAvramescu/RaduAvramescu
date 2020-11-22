@@ -2,10 +2,8 @@
 ### I'm a junior frontend developer who is looking for work.
 
 ## 📈 Stats
-<div display="inline">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaduAvramescu&theme=dark&show_icons=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaduAvramescu&theme=dark&show_icons=true">
-</div>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaduAvramescu&theme=dark&show_icons=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=RaduAvramescu&theme=dark&show_icons=true">
 
 ## 🚀 Skills
 
