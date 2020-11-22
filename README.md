@@ -1,4 +1,4 @@
-### Hello! I'm Radu Avramescu. 👋
+# Hello! I'm Radu Avramescu. 👋
 
 ## 📈 Stats
 <div display="inline">
